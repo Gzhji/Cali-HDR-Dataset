@@ -1,5 +1,6 @@
 # Cali-HDR-Dataset
-Calibrated HDR (Cali-HDR) dataset for indoor panorama and paired real-time outdoor fisheye images
+Calibrated HDR (Cali-HDR) dataset for indoor panorama and paired real-time outdoor fisheye images.
+
 This dataset is contributed by the oral presentation paper: 
 Guanzhou Ji, Azadeh Sawyer, Srinivasa Narasimhan, Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination, International Symposium on Visual Computing, Lake Tahoe, NV, Oct. 16-18, 2023. 
 
