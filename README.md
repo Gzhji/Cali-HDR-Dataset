@@ -6,7 +6,7 @@ Guanzhou Ji, Azadeh Sawyer, Srinivasa Narasimhan, Virtual Home Staging: Inverse 
 
 
 The complete dataset is available upon request. 
-To access the download link, please email gji@andrew.cmu.edu. 
+To access the download link, please email Guanzhou Ji (gji@andrew.cmu.edu). 
 
 ## Indoor Panorama
 ![Image Alt Text](scene.jpg)
