@@ -14,4 +14,5 @@ To access the download link, please email gji@andrew.cmu.edu.
 ## Outdoor Fisheye
 ![Image Alt Text](env.jpg)
 
-
+## Dataset Summary
+[Click here to view the dataset summary](Cali-HDR_data.pdf)
