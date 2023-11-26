@@ -2,6 +2,7 @@
 Calibrated HDR (Cali-HDR) dataset includes 137 indoor panoramas and paired real-time outdoor fisheye images.
 
 This dataset is contributed by the oral presentation paper "Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination" at the International Symposium on Visual Computing, Lake Tahoe, NV, Oct. 16-18, 2023. 
+[Source Code](https://github.com/Gzhji/vs_natural_ill)
 
 The complete dataset is available upon request. 
 To access the download link, please email Guanzhou Ji (gji@andrew.cmu.edu). 
