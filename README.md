@@ -20,9 +20,10 @@ To access the download link, please email Guanzhou Ji (gji@andrew.cmu.edu).
 ## BibTeX
 ```
 @inproceedings{ji2023virtual,
-    title = {Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination},
-    author = {Ji, Guanzhou and Sawyer, Azadeh 0. and Narasimhan, Srinivasa G.},
-    booktitle = {International Symposium on Visual Computing, Lake Tahoe, NV},
-    year = {2023},
+    title     = {Virtual Home Staging: Inverse Rendering and Editing an Indoor Panorama under Natural Illumination},
+    author    = {Ji, Guanzhou and Sawyer, Azadeh 0. and Narasimhan, Srinivasa G.},
+    booktitle = {Proceedings of the International Symposium on Visual Computing},
+    month     = {Oct.},
+    year      = {2023},
 }
 ```
